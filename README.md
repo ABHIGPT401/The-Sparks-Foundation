@@ -1,2 +1,2 @@
 # The-Sparks-Foundation
-# Task 6
+# Task #2 & Task 6
